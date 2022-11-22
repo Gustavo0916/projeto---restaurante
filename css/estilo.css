@@ -1,0 +1,129 @@
+body {
+	background: #86B404;
+}
+
+a h4:hover {
+	color: brown;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+a p {
+	color: black;
+	padding: 0 5px;
+}
+
+a h4 {
+	color: #008000;
+}
+
+#container {
+	width: 1250px;
+	height: 1272px;
+}
+
+.divLink {
+	margin-top: -167px;
+}
+
+.divLink a {
+	color: white;
+	margin: 20px;
+	text-decoration: none;
+}
+
+.divLink a:hover {
+	color: #DAA520;
+}
+
+/*********/
+
+.postagem {
+	width: 300px;
+	background: #F3E2A9;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}
+
+.postagem-2 {
+	width: 300px;
+	background: #F3E2A9;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+.postagem-3 {
+	width: 300px;
+	background: #F3E2A9;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+.postagem-4 {
+	width: 300px;
+	background: #F3E2A9;
+	float: left;
+	margin-left: 5px;
+	margin-bottom: 10px;
+}
+
+/**********/
+
+.conteudo {
+	width: 1250px;
+	height: 500px;
+	
+	margin-top: 158px;
+}
+
+.titulo {
+	text-align: center;
+	color: #008000;
+}
+
+/************/
+.rodape {
+	margin-top: 720px;
+	background: #F3E2A9;
+	border-radius: 5px;
+}
+
+.divLinkRodape {
+	text-align: center;
+	margin: 10px;
+	padding-top: 15px;
+}
+
+.divLinkRodape a {
+	margin: 50px;
+	color: #008000;
+}
+
+.divLinkRodape a:hover {
+	color: brown;
+}
+
+.tituloRodape {
+	text-align: center;
+	padding-top: 1px;
+	margin-left: -3px;
+	color: brown;
+}
+
+.fimRodape {
+	text-align: center;
+	padding: 10px 0;
+	color: brown;
+}
+
+/*******/
+
+
+
+
